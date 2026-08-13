@@ -92,7 +92,4 @@ externally.
 - [Google Gemini API](https://ai.google.dev/) — analysis (`gemini-3.5-flash-lite`)
 - [python-dotenv](https://pypi.org/project/python-dotenv/) — env var loading
 
-## License
 
-Add a license of your choice (MIT is a common default for small tools like
-this).
